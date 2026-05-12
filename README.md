@@ -1,2 +1,15 @@
 # aigon-anthropic-claude-agent-challen
-Autonomous agent system using Claude as reasoning core with 413 agents handling execution, memory, and self-correction. Extracts 10x more utility from Claude through parallel agent reasoning.
+
+> AIGON autonomous submission — v4.0
+
+## Architecture
+413-agent swarm → 42 Quality Gates → Meta-learning → Auto-submit
+
+## CI/CD
+GitHub Actions: quality gates on push
+
+## Tests
+
+
+## License
+MIT — AIGON Enterprise
